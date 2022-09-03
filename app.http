@@ -1,0 +1,2 @@
+GET http://localhost:3000/tweets/1/likes/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjYyMTI3MzEwfQ.sS2qwwCQKVOySL_cn3mSbJIpX1bOmXcN2BRyVp9Kwl0
